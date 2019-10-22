@@ -1,0 +1,19 @@
+                                    
+
+
+                               *what is scope in angular ?
+
+                                  => in angular js scope is buit in object, which contains application
+                                      data and methods.
+
+                              *what is angular expression?
+
+                                   => Angular expression are used to bind application data to html.
+
+
+                             * what is dependancy injection in angular js?
+
+                                  => dependancy injection is a software design pattern that deals 
+                                      hwo to code gets hold of its dependecies?
+                             
+                                      

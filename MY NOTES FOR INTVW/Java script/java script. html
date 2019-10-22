@@ -1,0 +1,30 @@
+1.what is java script?
+ => it is a  client side scripting language.it can be inserted into html pages .it is also called as
+        object base programming language.
+2. diff.betwn java and js?
+  => java is an object oriented programming language  or structerd programming language like c,c++.
+    where as js is a client side scripting language.these two language are not  inter dependent.
+     it is also designed foer diff. intent.
+3. What are js data types?
+  => number
+      string
+        boolean  
+          object 
+            undefiend
+4.isNAN fun.?
+  => it is not a number. it returns true or false .
+5. diff. js and asp which is faster?
+  => js is faster than asp script. bcz  js is a client side language  it does not need the assitance  of the web
+     server execute.
+6. -ve infinity?
+   => it is a no. inn js  it can be derived by dividing -ve number  by zero.
+7. is it possible to break   java script code  into several lines?
+   => yes , by the use of backslash.
+8.netscape is develped  js.
+9. undeclared and undefined variables?
+   => undeclared variables are those that do not exit in program and are not declared.
+     undefined variables are those that are declared in the program but have not given any value.
+10. global variables?
+  => global variables are those that are aviable throughout the length of the code ,that is, these have no scope.
+11. prompt box?  
+    => it is a box which allows the user to enter input by providing a text box.

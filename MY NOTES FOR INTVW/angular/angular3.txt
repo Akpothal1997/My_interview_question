@@ -1,0 +1,10 @@
+          
+
+
+
+         What is view?
+                   A view is a subset of a database that is generated
+            from a query and stored as a permanent object. Although the definition 
+            of a view is permanent, the data contained therein is dynamic depending 
+            on the point in time at which the view is accessed.
+             Views represent a subset of the data contained in a table.

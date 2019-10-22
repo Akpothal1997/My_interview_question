@@ -1,0 +1,28 @@
+      
+
+                                      ****jquery ****
+                  
+                       1. what is jquery?
+                         => jquesry is not a programming language.it is a java script code.
+                             which do event handling,ajax interactions and animations.
+                       2. why jquery?
+                         => *used to develope the web applications.
+                            *very fast and extensible.
+                       3. what scenarious jquery can be used?
+                          => *animation effects
+                             * calling function on events.
+                             * manipulation purpose.
+                       4. what is jquery connect?
+                          => it is a plugin used to connect a function to another function.
+                       5. what are the basic selectors?
+                          => # element id
+                             # css name
+                             # tag name
+                             # Dom hierarchy
+                       6. what is cdn and how many types?
+                          => cdn is as content distribution network.it is said to be a
+                              group of companies in diff. location  with network containning
+                               copies of data files to maximize bandwith in accessing the data.
+                             * two types of cdn like as
+                                               (1) microsoft - load  jquery from ajax CDN
+                                               (2) google - load jquery from  google libraries api.

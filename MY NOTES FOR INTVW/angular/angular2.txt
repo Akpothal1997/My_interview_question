@@ -1,0 +1,14 @@
+     
+
+
+
+  
+  *.  What is the difference between ViewChild () and ContentChild ()?
+           As the name suggests, @ContentChild and @ContentChildren queries will 
+            return directives existing inside the <ng-content></ng-content> 
+             element of your view, whereas @ViewChild and @ViewChildren 
+              only look at elements that are on your view template directly.
+
+    *. what is view child ?
+           @ViewChild is a local component template querying mechanism, 
+           that cannot see the internals of its child components.

@@ -1,0 +1,20 @@
+12. working of timers in js? 
+     => setTimeout,setInterval,clearInterval
+13. operator?
+  => it is called as strict equality operator which returns true when the two operands having same value
+        without any type converstion.
+14. looping structuers in js?
+    => for, while, do while.
+15. pop up boxes avlable in js?
+   => alert, confirm and prompt
+16. null?
+  => it is used to represent no value r no object.
+17.== and === diff.
+   => it is used for  check the equality and it is the check for  equality and return.
+18. javascript cookies?
+    => it is the small test file stord in a computer  and it gets created  when the user visits the websites 
+	    to store tha data that they need.
+19. two basic group of data types in js?
+  => primitive, references.
+20. diif. types of errors in js?
+   => loadtym error,Runtym error,Logical error.

@@ -1,0 +1,29 @@
+   
+
+                                 ***** NODE JS*****
+
+      1. what is node js?
+         => it is a server side scripting language, which is used to built
+            scalable programms.
+      2. how node js works?
+        => it is works on v8 enviorment. it is a virtual machine tht utilizes  
+           java script as its scripting language  and achives high act via non blocking
+            input/ output.
+      3. where can we use node js?
+        => it is used for 
+                   * web applications
+                   * network appilcations
+                   * general purpose applications
+      4. advantages of node js/ why should go for node js?
+        => *generally fast
+           *creat councrrency
+           *almost never blocks
+           *asynchronous everything
+      5. why node js is single threaded?
+        => node js belives in more performance and sclability programms.
+         and it also have asynchronous processing.
+      6. does the node run on windows?
+         => yes, download the msi.
+      7. what is " call back" in node js?
+         => callback function is used in node js to deal with multiple requests made to the server.
+

@@ -1,0 +1,16 @@
+     
+
+                                           *****MY SQL****
+ 
+                       1.what is my sql?
+                         => it is an ope source dbms which is built,supported and
+                            distrubute by mysql lab.
+                       2. why my sql is used ?
+                         => mysql database sever is reliable, fast and very easy to use. 
+                            this software can be downloaded  as free and download from internet.
+                       3. what are the technical featuers of mysql?
+                         => mysql database software is aclient or srver system.
+                           * it supports various client programms and library.
+                            * it is use in diff. backend.
+                             * it also having adminstrative tools.
+                       
